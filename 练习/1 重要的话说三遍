@@ -5,6 +5,7 @@
 #include<stdio.h>
 
 int main(void) {
+//规定int初始值为1.循环一次加1，等于三时停止
     for (int i = 1; i <= 3; i++) {
         printf("I'm gonna WIN!\n");
     }
