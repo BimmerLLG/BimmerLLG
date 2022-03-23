@@ -1,0 +1,13 @@
+\\输出格式：
+\\按照下列格式输出由“A”组成的菱形图案。
+\\  A
+\\A   A
+\\  A
+
+#include<stdio.h>
+
+int main(void) 
+{
+    printf("  A\nA   A\n  A");
+    return 0;
+}
